@@ -1,0 +1,15 @@
+.product{
+    border: 1px black solid;
+    width: 400px;
+    height: 400px;
+    justify-content: space-evenly;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+.products{
+    display: flex;
+    justify-content: space-evenly;
+
+}
